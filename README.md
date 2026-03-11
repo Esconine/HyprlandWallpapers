@@ -1,1 +1,1 @@
-# HyprlandWallpapers
+# Hyprland Wallpapers
