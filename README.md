@@ -9,3 +9,13 @@
         <img src="https://github.com/Esconine/HyprlandWallpapers/blob/main/img/hyprland.icon" width="40" alt="Logo"/> 
         Hyprland Wallpapers
     </h1>
+
+<h3 align="center">
+Hyprland Showcase
+</h3>
+
+<div align="center">
+
+# video
+
+</div>
