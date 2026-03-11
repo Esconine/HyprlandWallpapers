@@ -11,6 +11,7 @@
     </h1>
 
 <h3 align="center">
+<img src="https://github.com/Esconine/HyprlandWallpapers/blob/main/img/arch.png" alt="Sparkles" width="38" height="38" />
 Hyprland Showcase
 </h3>
 
