@@ -16,6 +16,12 @@ Hyprland Showcase
 
 <div align="center">
 
-# video
+(video)
 
 </div>
+
+### Where do I get wallpapers?
+- I use this site https://wallpapercave.com/ to search for wallpapers.
+
+> [!NOTE]
+> If you don't like any wallpaper you can add or remove some of them.
