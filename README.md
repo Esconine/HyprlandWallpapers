@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1 align="center">
-        <img src="https://github.com/Esconine/HyprlandWallpapers/blob/main/img/arch.png" alt="Sparkles" width="38" height="38" />
+        <img src="" width="40" alt="Logo"/> 
         Hyprland Wallpapers
     </h1>
 
