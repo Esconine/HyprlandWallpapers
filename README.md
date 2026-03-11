@@ -6,6 +6,6 @@
 </head>
 <body>
     <h1 align="center">
-        <img src="https://github.com/Esconine/HyprlandWallpapers/blob/main/img/107882187.png" width="40" alt="Logo"/> 
+        <img src="https://github.com/Esconine/HyprlandWallpapers/blob/main/img/hyprland.icon" width="40" alt="Logo"/> 
         Hyprland Wallpapers
     </h1>
