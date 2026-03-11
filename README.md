@@ -13,6 +13,7 @@
 <h3 align="center">
 <img src="https://github.com/Esconine/HyprlandWallpapers/blob/main/img/arch.png" alt="Sparkles" width="38" height="38" />
 Showcase
+<img src="https://github.com/Esconine/HyprlandWallpapers/blob/main/img/arch.png" alt="Sparkles" width="38" height="38" />
 </h3>
 
 <div align="center">
