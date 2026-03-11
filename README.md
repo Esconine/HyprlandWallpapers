@@ -12,12 +12,12 @@
 
 <h3 align="center">
 <img src="https://github.com/Esconine/HyprlandWallpapers/blob/main/img/arch.png" alt="Sparkles" width="38" height="38" />
-Hyprland Showcase
+Showcase
 </h3>
 
 <div align="center">
 
-https://github.com/Esconine/HyprlandWallpapers/blob/main/img/showcase.mp4
+https://youtu.be/1ixQk06H_dM
 
 </div>
 
