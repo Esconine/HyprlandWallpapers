@@ -11,9 +11,9 @@
     </h1>
 
 <h3 align="center">
-<img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
+<img src="https://github.com/Esconine/HyprlandWallpapers/blob/main/img/Sparkles.webp" alt="Sparkles" width="38" height="38" />
 Showcase
-<img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
+<img src="https://github.com/Esconine/HyprlandWallpapers/blob/main/img/Sparkles.webp" alt="Sparkles" width="38" height="38" />
 </h3>
 
 <div align="center">
