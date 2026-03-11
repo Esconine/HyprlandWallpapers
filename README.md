@@ -21,7 +21,7 @@ https://youtu.be/1ixQk06H_dM
 
 </div>
 
-### Where do I get wallpapers?
+### Where do you get wallpapers?
 - I use this site https://wallpapercave.com/ to search for wallpapers.
 
 > [!NOTE]
