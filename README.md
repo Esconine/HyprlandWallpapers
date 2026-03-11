@@ -17,7 +17,7 @@ Hyprland Showcase
 
 <div align="center">
 
-(video)
+https://github.com/Esconine/HyprlandWallpapers/blob/main/img/recording_2026-03-11_15-11-34.mp4
 
 </div>
 
